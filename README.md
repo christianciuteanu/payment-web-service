@@ -1,4 +1,4 @@
-Call http://localhost:51943/api/payments/processPayment with the followin json
+To test just call http://localhost:51943/api/payments/processPayment with the followin json
 {
   "CreditCardNumber": "4556394887258090",
   "CardHolder":"Client",
