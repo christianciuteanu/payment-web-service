@@ -3,3 +3,10 @@
 ################################################################################
 
 /Filed.PaymentService.ApiContracts/bin/Debug/netcoreapp2.2
+/Filed.PaymentService.ApiContracts/obj
+/Filed.PaymentService.UnitTests/bin/Debug/netcoreapp2.2
+/Filed.PaymentService.UnitTests/obj
+/Filed.PaymentService.Web.ApiServices/bin/Debug/netcoreapp2.2
+/Filed.PaymentService.Web.ApiServices/obj
+/Filed.PaymentService.WebApi/bin/Debug/netcoreapp2.2
+/Filed.PaymentService.WebApi/obj
